@@ -1,0 +1,28 @@
+name: RockyMtnMarc
+favicon: null
+layout_spectrum: 0.8225405018310994
+typography_spectrum: 0.3575471192598343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.629865248221904
+  lightness: 0.390676538227126
+  saturation: 0.9027147726155818
+  rhythmicContrast: 0.3280479204840958
+purpose: []
